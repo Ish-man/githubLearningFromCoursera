@@ -1,5 +1,5 @@
 from manim import *
-
+#use manim -pqh scene.py <class name to be executed>
 
 class CreateCircle(Scene):
     def construct(self):
